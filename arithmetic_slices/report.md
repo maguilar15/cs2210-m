@@ -11,3 +11,6 @@ I am going to store the result in a variable **p**. This variable will store the
 Ultimately combining them inside the nested while loop. 
 
 #### Talk about how you used IDEAL and Duke 7 to tackle the problem.                                      
+
+First was locating the sub-problem in the entire problem. I had to determine conditionals for iterating and selecting. 
+I would iterate through the list that is given and make summation through elements selected from a number inside the specified range in the problem statement.   
